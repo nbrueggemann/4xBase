@@ -1,4 +1,4 @@
-# Image Library React UI Sample App
+# 4x Base App with Calcite, React, and Storybook
 
 ## Getting Started
 
